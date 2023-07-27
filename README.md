@@ -1,5 +1,5 @@
 
-# QR Code ISBN Scanner
+# Bar Code ISBN Scanner
 
 ![QR Code Scanner](https://github.com/salmanpython06/ISBN_BARCODE_READER/blob/main/1.png)
 

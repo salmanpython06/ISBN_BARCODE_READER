@@ -17,4 +17,4 @@ The QR Code ISBN Scanner is a simple yet powerful tool that utilizes the OpenCV 
 To run the QR Code ISBN Scanner, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-### to be added later
+### to be added later...

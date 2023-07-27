@@ -8,10 +8,7 @@ This repository contains a Python script for scanning QR codes and extracting IS
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Storage](#data-storage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The QR Code ISBN Scanner is a simple yet powerful tool that utilizes the OpenCV library to capture frames from your webcam and extract QR code data. It then fetches book information using the Google Books API based on the extracted ISBN numbers.

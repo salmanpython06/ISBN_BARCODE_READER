@@ -1,7 +1,7 @@
 
 # QR Code ISBN Scanner
 
-![QR Code Scanner](https://your-image-link-here)
+![QR Code Scanner](https://github.com/salmanpython06/ISBN_BARCODE_READER/blob/main/1.png)
 
 This repository contains a Python script for scanning QR codes and extracting ISBN numbers from them. The code has been updated by Sir Raheem Kolachi.
 

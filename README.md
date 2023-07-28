@@ -13,7 +13,7 @@ This Github project is for capturing video from a camera in real-time and scans 
 To run the Bar code ISBN Scanner, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-- git clone https://github.com/salmanpython06/ISBN_BARCODE_READER.git
+    - git clone https://github.com/salmanpython06/ISBN_BARCODE_READER.git
 
 2. create a virtual environment:
     - cd ISBN_BARCODE_READER

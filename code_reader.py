@@ -26,12 +26,14 @@ def datasave(isbn):
     try:
         # parsing the isbnlin response into required variables
         book_info = data["items"][0]["volumeInfo"]
+
         title = book_info.get("title")
         authors = book_info.get("authors")
         publish_date = book_info.get("publishedDate")
         isbn = book_info.get("industryIdentifiers")[0]["identifier"]
         description = book_info.get("description")
         print("\n\n\n")
+
         table = {"title": title, "authors": authors, "isbn": isbn, "publish_date": publish_date, "description": description}
 
         # creating a data frame using panda
@@ -65,7 +67,6 @@ def datasave(isbn):
     except KeyError:
         print("Invalid ISBN\nPlease Try again!")
  
-
 # scanning QR Code from Camera
 while True:
     _, frame = cam.read()

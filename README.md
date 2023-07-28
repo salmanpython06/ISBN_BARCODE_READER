@@ -19,3 +19,9 @@ To run the Bar code ISBN Scanner, follow these steps:
     - cd ISBN_BARCODE_READER
     - pip install virtualenv
     - python -m venv myenv
+3. install all modules:
+    - pip install -r requirements.txt
+4. run the code:
+    - python main.py
+
+Happy Scanning!

@@ -16,6 +16,6 @@ To run the Bar code ISBN Scanner, follow these steps:
 - git clone https://github.com/salmanpython06/ISBN_BARCODE_READER.git
 
 2. create a virtual environment:
--cd ISBN_BARCODE_READER
--pip install virtualenv
--python -m venv myenv
+    - cd ISBN_BARCODE_READER
+    - pip install virtualenv
+    - python -m venv myenv

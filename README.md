@@ -1,5 +1,6 @@
 
 <h1 align="center">Bar Code ISBN Scanner</h1>
+
 ![QR Code Scanner](https://github.com/salmanpython06/ISBN_BARCODE_READER/blob/main/1.png)
 
 This repository contains a Python script for scanning QR codes and extracting ISBN numbers from them. This code is my contribution to a final year project.
